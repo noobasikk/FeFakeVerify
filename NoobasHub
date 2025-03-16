@@ -1,0 +1,11 @@
+--I DONT OWN THIS SCRIPT, CREDITS TO THE OWNER--
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Важно!";
+    Text = "Для работы включите вьетнамский язык в настройках плейса";
+    Icon = "";
+    Duration = "10";
+    Button1 = "Ok";
+})
+
+loadstring(game:HttpGet("https://pastebin.com/raw/xYGAtCBq"))("t.me/noobashub")
